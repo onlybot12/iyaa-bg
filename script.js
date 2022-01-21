@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Discord Bot Developer", "Apps/Web Designer", "Whatsapp Bot Developer"],
+        strings: ["Murid Smp N1 Jeruklegi", "Discord Bot Developer", "Apps/Web Designer", "Whatsapp Bot Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
