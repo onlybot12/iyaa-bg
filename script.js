@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["YouTuber", "WhatsApp/Discord Bot Developer", "Apps/Web Designer", "Creator Bot"],
+        strings: ["Murid Smp N1 Jeruklegi", "WhatsApp/Discord Bot Developer", "Apps/Web Designer", "Creator Bot"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
