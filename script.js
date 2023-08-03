@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["YouTuber", "WhatsApp/Discord Bot Developer", "Apps/Web Designer", "Creator Bot"],
+        strings: ["YouTuber", "WhatsApp Bot Developer", "Apps/Web Designer", "Creator Bot"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Discord Bot Developer", "Apps/Web Designer", "Whatsapp Bot Developer"],
+        strings: ["YouTuber", "Apps/Web Designer", "Whatsapp Bot Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -77,7 +77,7 @@ let body = document.querySelector('.message');
     let searchBtn = document.querySelector('.searchBtn');
     
     searchBtn.onclick = function(){
-        let url = 'mailto:adiicotz@gmail.com?subject='+subject.value;
+        let url = 'whyzzxybot@gmail.com?subject='+subject.value;
         let url2 = '&body='+message.value;
         window.open(url+url2,'_self');
     }
